@@ -1,6 +1,6 @@
 ## Java Application Build and Deploy
 
-### Git Repository:
+### Git Repository:https://github.com/Rahuldepp/Java-Blog.git
 
 #### Step1:Create a EC2 instance
 #### Step2:Connect to terminal using ssh
