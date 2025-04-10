@@ -25,4 +25,4 @@ streamlit run app.py
 ![](pythonimages/output1.png)
 ![](pythonimages/output2.png)
 ![](pythonimages/output3.png)
-#### Step7: Application should be live
+
