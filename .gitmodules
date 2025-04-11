@@ -1,0 +1,9 @@
+[submodule "javaApplication/Java-Blog"]
+	path = javaApplication/Java-Blog
+	url = https://github.com/Rahuldepp/Java-Blog
+[submodule "javascriptApplication/photography-website"]
+	path = javascriptApplication/photography-website
+	url = https://github.com/dreamz89/photography-website
+[submodule "pythonApplication/Car-Premium-Prediction"]
+	path = pythonApplication/Car-Premium-Prediction
+	url = https://github.com/MainakRepositor/Car-Premium-Prediction
